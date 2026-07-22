@@ -1,6 +1,6 @@
 ![Banner](assets/banner.svg)
 
-# Awesome-AI-Renting-Humans
+# Awesome AI Renting Humans - The Ultimate Directory of AI Workers and Agents
 ## Top AI Renting Humans Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
