@@ -43,43 +43,46 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated AI Renting Humans & Agent Marketplaces
 
-- **[Fetch.ai Open Agents](https://github.com/fetchai)**  
-  Open-source autonomous economic agents and tools for building decentralized AI service marketplaces.
+- **[n8n Agent Workflows](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+  Open-source workflow automation for building and deploying AI agent services.
 
-- **[Olas Open Autonomous Services](https://github.com/valory-xyz)**  
-  Open-source frameworks for creating and deploying autonomous AI agents in economic contexts.
-
-- **[CrewAI Agent Marketplaces](https://github.com/crewAIInc/crewAI)**  
-  Open-source multi-agent orchestration for building rentable AI agent teams.
-
-- **[LangGraph Agent Platforms](https://github.com/langchain-ai/langgraph)**  
-  Stateful multi-agent framework for creating customizable, deployable AI agents.
-
-- **[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** (and forks)  
+- **[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** [![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social&color=white)](https://github.com/Significant-Gravitas/Auto-GPT/stargazers) (and forks)  
   Open-source autonomous AI agents that can perform complex tasks on demand.
 
-- **[BabyAGI](https://github.com/yoheinakajima/babyagi)**  
-  Open-source task-driven autonomous agent framework adaptable for rental services.
-
-- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)**  
+- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** [![GitHub stars](https://img.shields.io/github/stars/OpenDevin/OpenDevin?style=social&color=white)](https://github.com/OpenDevin/OpenDevin/stargazers)  
   Open-source autonomous AI software engineer that can be offered as a rentable service.
 
-- **[Phidata Agent Marketplace](https://github.com/phidatahq/phidata)**  
-  Framework for building production agents with tools and memory for various labor tasks.
+- **[CrewAI Agent Marketplaces](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+  Open-source multi-agent orchestration for building rentable AI agent teams.
 
-- **[Huginn](https://github.com/huginn/huginn)**  
+- **[Huginn](https://github.com/huginn/huginn)** [![GitHub stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
   Open-source personal automation agent that can be extended into rentable services.
 
-- **[n8n Agent Workflows](https://github.com/n8n-io/n8n)**  
-  Open-source workflow automation for building and deploying AI agent services.
+- **[Phidata Agent Marketplace](https://github.com/phidatahq/phidata)** [![GitHub stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social&color=white)](https://github.com/phidatahq/phidata/stargazers)  
+  Framework for building production agents with tools and memory for various labor tasks.
+
+- **[LangGraph Agent Platforms](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+  Stateful multi-agent framework for creating customizable, deployable AI agents.
+
+- **[BabyAGI](https://github.com/yoheinakajima/babyagi)** [![GitHub stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social&color=white)](https://github.com/yoheinakajima/babyagi/stargazers)  
+  Open-source task-driven autonomous agent framework adaptable for rental services.
+
+- **[Fetch.ai Open Agents](https://github.com/fetchai/uAgents)** [![GitHub stars](https://img.shields.io/github/stars/fetchai/uAgents?style=social&color=white)](https://github.com/fetchai/uAgents/stargazers)  
+  Open-source autonomous economic agents and tools for building decentralized AI service marketplaces.
+
+- **[Olas Open Autonomous Services](https://github.com/valory-xyz/open-autonomy)** [![GitHub stars](https://img.shields.io/github/stars/valory-xyz/open-autonomy?style=social&color=white)](https://github.com/valory-xyz/open-autonomy/stargazers)  
+  Open-source frameworks for creating and deploying autonomous AI agents in economic contexts.
 
 ### Additional Strong Open-Source Options
 
-- **[DAOstack](https://github.com/daostack)** — Tools for decentralized autonomous organizations and agent economies.
-- **[Aragon](https://github.com/aragon)** — Open-source DAO framework for collective labor and service platforms.
-- **[SourceCred](https://github.com/sourcecred/sourcecred)** — Open-source reputation and contribution tracking for agent marketplaces.
 - **[Many LangGraph + CrewAI** templates for rentable AI agent teams.
-- **[OpenBazaar](https://github.com/OpenBazaar/openbazaar-go)** — Decentralized marketplace adaptable for AI services.
+- **[OpenBazaar](https://github.com/OpenBazaar/openbazaar-go)** [![GitHub stars](https://img.shields.io/github/stars/OpenBazaar/openbazaar-go?style=social&color=white)](https://github.com/OpenBazaar/openbazaar-go/stargazers) — Decentralized marketplace adaptable for AI services.
+
+- **[Aragon](https://github.com/aragon/aragon)** [![GitHub stars](https://img.shields.io/github/stars/aragon/aragon?style=social&color=white)](https://github.com/aragon/aragon/stargazers) — Open-source DAO framework for collective labor and service platforms.
+
+- **[SourceCred](https://github.com/sourcecred/sourcecred)** [![GitHub stars](https://img.shields.io/github/stars/sourcecred/sourcecred?style=social&color=white)](https://github.com/sourcecred/sourcecred/stargazers) — Open-source reputation and contribution tracking for agent marketplaces.
+
+- **[DAOstack](https://github.com/daostack/alchemy)** [![GitHub stars](https://img.shields.io/github/stars/daostack/alchemy?style=social&color=white)](https://github.com/daostack/alchemy/stargazers) — Tools for decentralized autonomous organizations and agent economies.
 
 **Frameworks for building custom platforms**: Combine **Fetch.ai**, **Olas**, **CrewAI**, and **LangGraph** with **Ollama** to create fully open and decentralized AI renting human/agent marketplaces.
 
