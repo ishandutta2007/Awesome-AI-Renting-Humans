@@ -23,20 +23,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (AI Renting Humans)
 
-- **[rent-a-human](https://rentahuman.com/)**  
-  Platform for renting human talent augmented with AI for various tasks and projects.
-
-- **[Humwork](https://humwork.com/)**  
-  AI-powered human workforce platform for on-demand skilled labor.
-
-- **[Standout](https://standout.com/)**  
-  Talent marketplace with AI matching for short-term and specialized work.
-
-- **[Fetch.ai](https://fetch.ai/)**  
-  Decentralized machine learning and autonomous agent network for AI-driven services.
-
-- **[Olas](https://olas.network/)**  
-  Open autonomous services platform for AI agents performing human-like economic activities.
+| Product | Description | Pricing | Valuation/Revenue |
+|---------|-------------|---------|-------------------|
+| **[Fetch.ai](https://fetch.ai/)** | Decentralized machine learning and autonomous agent network for AI-driven services. | Token-based (FET). Free tier limit: Developer testnet access is free. | $1B+ |
+| **[Olas](https://olas.network/)** | Open autonomous services platform for AI agents performing human-like economic activities. | Token-based (OLAS). Free tier limit: Free to deploy on testnets. | $500M |
+| **[Humwork](https://humwork.com/)** | AI-powered human workforce platform for on-demand skilled labor. | Free basic account (Free tier limit: 5 hires/month). Premium is $49/mo. | $10M |
+| **[rent-a-human](https://rentahuman.com/)** | Platform for renting human talent augmented with AI for various tasks and projects. | Freemium (Free tier limit: 3 active projects). Paid plans start at $29/mo. | $5M |
+| **[Standout](https://standout.com/)** | Talent marketplace with AI matching for short-term and specialized work. | Custom pricing per project. No free tier. | $1M |
 
 ### Advanced & Specialized Platforms
 
