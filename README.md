@@ -21,7 +21,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS Products
+## 🚀 SaaS Products
 
 ### Core Platforms (AI Renting Humans)
 
@@ -37,7 +37,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Other notable mentions**: Various gig economy platforms with AI enhancements and agent marketplaces.
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 ### Dedicated AI Renting Humans & Agent Marketplaces
 
