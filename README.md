@@ -1,3 +1,5 @@
+![Banner](assets/banner.svg)
+
 # Awesome-AI-Renting-Humans
 ## Top AI Renting Humans Platforms Ecosystem
 
